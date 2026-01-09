@@ -60,9 +60,9 @@ print("The area of a rectangle with length 3 and width 4 is", 3 * 4)
 
 name = "Twisha"
 hobby = "Dancing"
-coding_experience = "beginnepypr"
+coding_experience = "beginner"
 weekly_hours_learn_coding = 8
-my_github_comp115_repo = "https://github.com/awang-capu/comp115-capu"
+my_github_comp115_repo = "https://github.com/stwisha20-commits/comp115-capu"
 
 print(f"""
 Hi,
